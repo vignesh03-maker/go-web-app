@@ -11,7 +11,7 @@ spec:
   - host: go-web-app.local
     http:
       paths: 
-      - path: /
+      - path: /courses
         pathType: Prefix
         backend:
           service:

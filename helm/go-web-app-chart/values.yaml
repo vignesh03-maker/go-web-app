@@ -8,7 +8,7 @@ image:
   repository: vignesh03-maker/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17626337402"
+  tag: "17627801491"
 
 ingress:
   enabled: false
